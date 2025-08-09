@@ -1,0 +1,3 @@
+﻿This Confidentiality Agreement ("NDA") is made between Alpha Ltd and Beta LLC.
+The parties agree not to disclose Confidential Information for 3 years.
+Governing law: England & Wales. Termination on 30 days' written notice.
