@@ -1,3 +1,6 @@
-﻿This Confidentiality Agreement ("NDA") is made between Alpha Ltd and Beta LLC.
-The parties agree not to disclose Confidential Information for 3 years.
-Governing law: England & Wales. Termination on 30 days' written notice.
+﻿This Confidentiality Agreement (“Agreement”) is made between Alpha Ltd (“Discloser”) and Beta LLC (“Recipient”).
+1. Confidentiality: Recipient shall not disclose Confidential Information for a period of 3 years from the Effective Date.
+2. Permitted Use: Recipient may use Confidential Information solely to evaluate a potential partnership.
+3. Return/Destruction: Upon request, Recipient will return or destroy all Confidential Information.
+4. Governing Law: England & Wales.
+Effective Date: 10 August 2025. Termination: either party may terminate on 30 days’ written notice.
